@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Solid Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/"
+supportLink = "https://github.com/"
+
+[ejs.welcome]
+welcomeHeader = "Bem-vindo ao Solid Launcher"
+welcomeDescription = "Agora você pode jogar de graça com um launcher totalmente seguro"
+welcomeDescCTA = "Você está a alguns cliques do minecraft."
